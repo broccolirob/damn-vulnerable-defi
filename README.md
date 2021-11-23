@@ -1,8 +1,10 @@
-## Solution Notes
+# Damn Vulnerable DeFi
 
-Solutions are in `test/*.challenge.js` files and the
-`contracts/attacker-contracts/` directory. My solution notes can be found
-[here](./notes).
+My solutions to the challenges can be found in `test/*.challenge.js` files and
+the `contracts/attacker-contracts/` directory. My solution write-ups can be
+found in the [readme of the notes directory](./notes).
+
+## Source Repo Readme File
 
 ![](cover.png)
 
